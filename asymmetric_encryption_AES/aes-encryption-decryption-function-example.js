@@ -15,6 +15,7 @@ function decryptObject(encryptObject, aesKey, aesIV) {
   return JSON.parse(decrypted);
 }
 
+
 function run() {
   const aesKey = crypto.randomBytes(32);
   const aesIV = crypto.randomBytes(16);
