@@ -1,3 +1,5 @@
+"use strict";
+
 const server_a = require("./server-a");
 const server_b = require("./server-b");
 
