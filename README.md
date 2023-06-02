@@ -7,7 +7,6 @@ This repository contains code samples and examples related to different encrypti
 - `asymmetric_encryption_AES`: Contains code samples and resources related to asymmetric encryption using AES algorithm.
 - `symmetric_encryption_RSA`: Contains code samples and resources related to symmetric encryption using RSA algorithm.
 - `hybrid_encryption_AES_RES`: Contains code samples and resources related to hybrid encryption combining AES and RSA algorithms.
-- `hybrid_encryption_AES_RES_Hash`: Contains code samples and resources related to hybrid encryption combining AES, RSA, and hashing algorithms.
 - `sample_project`: Contains a sample project demonstrating the use of hybrid encryption.
   - `server_using_hybrid_encryption`: Contains server-side code demonstrating the implementation of hybrid encryption in a server application.
 - `utils`: Contains utility files and scripts.
